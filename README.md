@@ -19,7 +19,10 @@ Vary passionate about storytelling and systems, I'm aiming to become a Technical
  <source align="left" alt="unity" width="30px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jstriedinger/jstriedinger/main/unity-whitelogo.svg">
  <img align="left" alt="unity" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
 </picture>
-<img align="left" alt="unreal" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg"/>
+<picture>
+ <source align="left" alt="unreal engine" width="30px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jstriedinger/jstriedinger/main/unrealengine-white.svg">
+ <img align="left" alt="unreal engine" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
+</picture>
 <img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 <img align="left" alt="npm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
 <img align="left" alt="webpack" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/>
