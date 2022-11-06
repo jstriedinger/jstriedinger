@@ -1,13 +1,16 @@
-### Hi 👋, I'm Jose Striedinger 
+# Hi 👋, I'm Jose Striedinger 
 **`Digital craftsman (developer / designer / entrepreneur)`**
 
-I'm a game/web developer from Colombia:colombia: and founder of arkde.com; an eLearning platform backed by *Epic Games Mega Grant*. Currently in L.A doing a Master in Game Design from **USC Games**.
+I'm a game/web developer from Colombia:colombia: and founder of [arkde.com](https://arkde.com); an eLearning platform backed by *Epic Games Mega Grant*. Currently in Los Angeles doing a Master in Game Design from **USC Games**.
 
 Vary passionate about storytelling and systems, I'm aiming to become a Technical Game Designer or Gameplay Engineer, while continuing to share my knowledge to other people in Latam.
 
 - 👨‍💻 My website/portfolio at [https://www.jstriedinger.com](https://www.jstriedinger.com)
 - 📄 Download my general CV (Nov 2022) [by clicking here](https://www.jstriedinger.com/wp-content/uploads/2022/11/CV-jose.pdf)
-#### :wrench: Languages and tools
+- :space_invader: More game/web projects at ARKDE github profile [https://github.com/arkdecol](https://github.com/arkdecol
+<br/> 
+
+### :wrench: Languages and tools
 <img align="left" alt="csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/>
 <img align="left" alt="cplusplus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"/>
 <img align="left" alt="javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -32,7 +35,10 @@ Vary passionate about storytelling and systems, I'm aiming to become a Technical
 <img align="left" alt="figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <br><br>
 
+### :chart_with_upwards_trend: Github stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jstriedinger&show_icons=true&locale=en&count_private=true&theme=transparent&hide=stars" alt="jstriedinger" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jstriedinger&layout=compact&theme=transparent"/>
+
 
 
 
