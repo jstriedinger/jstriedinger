@@ -16,11 +16,9 @@ Vary passionate about storytelling and systems, I'm aiming to become a Technical
 <img align="left" alt="sass" width="30px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
 <!-- Tools -->
 <picture>
- <source align="left" alt="unity" width="30px" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+ <source align="left" alt="unity" width="30px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jstriedinger/jstriedinger/main/unity-white.svg">
  <img align="left" alt="unity" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
 </picture>
-
-<img align="left" alt="unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
 <img align="left" alt="unreal" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg"/>
 <img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 <img align="left" alt="npm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
