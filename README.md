@@ -1,7 +1,7 @@
 # Hi 👋, I'm Jose Striedinger 
 **`Digital craftsman (developer / designer / entrepreneur)`**
 
-I'm a game/web developer from Colombia:colombia: and founder of **[arkde.com]**(https://arkde.com); an eLearning platform backed by *Epic Games Mega Grant*. Currently in Los Angeles doing a Master in Game Design from **USC Games**.
+I'm a game/web developer from Colombia:colombia: and founder of [arkde.com](https://arkde.com); an eLearning platform backed by *Epic Games Mega Grant*. Currently in Los Angeles doing a Master in Game Design from **USC Games**.
 
 Vary passionate about storytelling and systems, I'm aiming to become a Technical Game Designer or Gameplay Engineer, while continuing to share my knowledge to other people in Latam.
 
