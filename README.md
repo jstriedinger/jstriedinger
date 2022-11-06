@@ -7,7 +7,8 @@ Vary passionate about storytelling and systems, I'm aiming to become a Technical
 
 - 👨‍💻 My website/portfolio at [https://www.jstriedinger.com](https://www.jstriedinger.com)
 - 📄 Download my general CV (Nov 2022) [by clicking here](https://www.jstriedinger.com/wp-content/uploads/2022/11/CV-jose.pdf)
-<br/>  
+- :space_invader: More game/web projects at ARKDE github profile [https://github.com/arkdecol](https://github.com/arkdecol
+<br/> 
 
 ### :wrench: Languages and tools
 <img align="left" alt="csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/>
