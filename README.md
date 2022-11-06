@@ -25,15 +25,8 @@ Vary passionate about storytelling and systems, I'm aiming to become a Technical
 <img align="left" alt="photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"/>
 <img align="left" alt="figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <br><br>
-[![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=jstriedinger)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jstriedinger&show_icons=true&locale=en&layout=compact" alt="jstriedinger" /></p>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jstriedinger" alt="jstriedinger" /></a> </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jstriedinger&show_icons=true&locale=en" alt="jstriedinger" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jstriedinger&show_icons=true&locale=en&count_private=true&theme=transparent&hide=stars" alt="jstriedinger" /></p>
 
 
 
