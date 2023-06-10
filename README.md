@@ -36,7 +36,6 @@ Vary passionate about storytelling and systems, I'm aiming to become a Technical
 <br><br>
 
 ### :chart_with_upwards_trend: Github stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jstriedinger&show_icons=true&locale=en&count_private=true&theme=transparent&hide=stars" alt="jstriedinger" /></p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jstriedinger&layout=compact&theme=transparent"/>
 
 
